@@ -1,5 +1,5 @@
-# Arms
+**🎥 Demo Video**
 
-
-https://github.com/user-attachments/assets/91822d5d-c97b-4a7b-9d1e-22761dd82658
-
+<video controls width="100%">
+  <source src="https://anonymous.4open.science/r/Arms-E0F2/demo.mp4" type="video/mp4">
+</video>
